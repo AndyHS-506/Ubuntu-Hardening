@@ -7,12 +7,12 @@ Following most of the recommendations for the CIS Benchmark
 Meant for a clean install of a server
 Needs to be executed as sudo
 Still under testing for additional settings but this cover the list of recommendations
-Uses timesync services as its build in and efficient with VMs
+Uses timesync services as its built in and efficient with VMs
 
 ## 4/13/25
-Moved to a monoliti but simplified, with logging per section and easy to manage
+Moved to a monolith but simplified, with logging per section and easy to manage
 Simplified commands and easy to digest reports and progress
 Improving the reporting even more
 
 ## 1/17/25 Update
-Remove the initial file and moving away from a monolithic approach, using a mre robust interface and sub-scripts for the different sections
+Remove the initial file and moving away from a monolithic approach, using a more robust interface and sub-scripts for the different sections
